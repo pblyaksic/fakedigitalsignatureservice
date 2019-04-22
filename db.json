@@ -1,31 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
+  "users": [ 
+    { "id": "83890347", "name": "Saanvi Easton", "rut":"8.389.034-7" },
+    { "id": "124228751", "name": "Khloe Mckenna", "rut":"12422875-1" },
+    { "id": "156131326", "name": "Kean Leon", "rut":"15613132-6" },
+    { "id": "157114239", "name": "Cecelia Harding", "rut":"15711423-9" },
+    { "id": "293520836", "name": "Stella Odom", "rut":"29352083-6" }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "clients": [
+    { "id": "297339648", "name": "Willis Vega", "rut":"29733964-8", "auditoria": "4a2b3132-62db-49af-8a59-db33cf6a56f4" },
+    { "id": "293520836", "name": "Bonita Beattie", "rut":"29352083-6", "auditoria": "806cd6bc-1067-4bc6-827b-3e1610a8fe01" },
+    { "id": "320226449", "name": "Mica Corrigan", "rut":"32022644-9", "auditoria": "74e24979-eef5-4a6e-ae76-a016fa62e6c3" },
+    { "id": "323897387", "name": "Jennie Vang", "rut":"32389738-7", "auditoria": "fc95bdf2-a113-4658-8b48-42b91e15d7f5" },
+    { "id": "340055861", "name": "Lili Everett", "rut":"34005586-1", "auditoria": "193c8c1b-e126-4373-a32e-b1cbaa03753a" }
+  ]
 }
